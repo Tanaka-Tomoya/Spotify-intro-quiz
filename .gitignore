@@ -1,0 +1,8 @@
+.env
+node_modules/
+yarn.lock
+dist
+# environment variables file
+.env
+yarn-debug.log*
+yarn-error.log*
